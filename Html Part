@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my website</title>
+    <link rel="stylesheet" href="style.css" >
+   
+ </head>
+ <body>
+   <!--top-banner-->
+    <div class="top-banner">
+      <div class=container>
+      <div class="small-bold-text">📣 Figma prototype testing just got a whole lot better! </div>
+      </div> 
+   </div>
+   <!--nav bar-->
+   <nav>
+      <div class="container main-nav">
+         <div class="company-logo">
+            <img src="assets/asset 1.png" alt="company logo" width="200px">
+         </div>
+         <div class="nav-link">
+            <ul class="nav-property">
+               <li><a href="#" class="hover-link">PRODUCT</a></li>
+               <li><a href="#" class="hover-link">CUSTOMERS</a></li>
+               <li><a href="#" class="hover-link">PRICING</a></li>
+               <li><a href="#" class="hover-link">RESOURCES</a></li>
+               <li><a href="#" class="hover-link secondary-button">SIGN IN</a></li>
+               <li><a href="#" class="hover-link primary-button">SIGN UP</a></li>
+            </ul>
+         </div>
+      </div>
+   </nav>
+   <!--header-section-->
+      <div class="container header-section">
+         <div class="header-left">
+            <h1>DESIGN CONFIDENTLY</h1><br>
+            <p>It is a remote user research platforn that take guesswork out of design decisions by validating them with real user.</p><br>
+             <a href="#" class="hover-link secondary-button">GET STARTED</a>
+         </div>
+         <div class="header-right">
+            <img src="D:\html\assets\asset 2.jpeg" alt="design image" width="600px">
+         </div>
+      </div>
+      <!--COMPANY-SECTION-->
+      <div class="container companies-section">
+         <div class="small-bold-text">THE WORLD BEST COMPANY RELY ON THIS WEBSITE</div>
+         <div class="logos flex">
+            <img src="D:\html\assets\asset 3.png" alt="amazon" height="46px">
+            <img src="D:\html\assets\asset 4.png" alt="amazon" height="46px" >
+            <img src="D:\html\assets\asset 5.png" alt="amazon" height="46px">
+            <img src="D:\html\assets\asset 6.png" alt="amazon" height="46px">
+            <img src="D:\html\assets\asset 7.png" alt="amazon" height="46px">
+            <img src="D:\html\assets\asset 8.svg" alt="amazon" height="46px">
+             <img src="D:\html\assets\asset 9.png" alt="amazon" height="46px">
+
+         </div>
+
+      </div>
+      <!--feature section-->
+      <div class="feature-section"> 
+         <div class="container ">
+            <div class="feature-header">
+               <h2>YOUR USER RESEARCH SWISS ARMY KNIFE</h2>
+            <a href="'#" class="primary-button">see all feature</a>
+            </div>
+            <div class="feature-area flex">
+                 <div class="card-sorting flex">
+                    <img src="assets/asset 11.svg" alt="card sorting" height="46px">
+                   <h4>Card sorting</h4>
+                     <p>discover how people group and label information</p>
+                     <a href="#" class="primary-button">learn more</a>
+                   </div>
+                   <div class="prototype-test flex">
+                     <img src="assets/asset 13.svg" alt="prototype test" height="46px" >
+                      <h4>Prototype test</h4>
+                     <p>discover how people navighate your figma prototype</p>
+                     <a href="#" class="primary-button">learn more</a>
+                    </div>
+                  <div class="first-click-test flex">
+                  <img src="assets/asset 14.svg" alt="first click test" height="46px" >
+                  <h4>First click test</h4>
+                  <p>Test interaction with first click and navigation tst</p>
+                  <a href="#" class="primary-button">learn more</a>
+                  </div>
+                     <div class="design-survey flex">
+                     <img src="assets/asset 15.svg" alt="design survey" height="46px" >
+                     <h4>Design survey</h4>
+                     <p>Get feedback on images videos or audio files</p>
+                     <a href="#" class="primary-button">learn more</a>
+                     </div>
+                     <div class="preference-test flex">
+                     <img src="assets/asset 16.svg" alt="design survey" height="46px" >
+                     <h4>Preference test</h4>
+                     <p>find out the design user prefer and why</p>
+                     <a href="#" class="primary-button">learn more</a>
+                     </div>
+                     <div class="five-second-test flex">
+                        <img src="assets/asset 17.svg" alt="design survey" height="46px" >
+                        <h4>Five second test</h4>
+                        <p>Test comprehensibility by measuring first impressions.</p>
+                        <a href="#" class="primary-button">learn more</a>
+                        </div>
+                  </div>
+            
+         </div>
+      </div>
+      <!--example-section-->
+      <div class="example-section ">
+         <div class="container example">
+            <div class="example-left">
+               <img src="assets/asset 18.png" alt="exmaple image" height="600px">
+             </div>
+            <div class="example-right ">
+               <h5>Effortless validation for</h5>
+               <h3>Design professional</h3>
+               <p>test interface interaction flow icongraphy and more to help you create intuitive and delightful experience</p>
+
+             </div>
+
+         </div>
+      </div>
+      <div class="example-section2 ">
+         <div class="container example2">
+            <div class="example2-left">
+               <img src="assets/asset 21.png" alt="exmaple image" height="600px">
+             </div>
+            <div class="example2-right ">
+               <h5>Effortless validation for</h5>
+               <h3>Design professional</h3>
+               <p>test interface interaction flow icongraphy and more to help you create intuitive and delightful experience</p>
+
+             </div>
+
+         </div>
+      </div>
+      <!--last-section-->
+      <div class="container ">
+         <div class="last-section-header">
+               <h2>One platform endless possibilities</h2><br>
+                <a href="'#" class="primary-button">see more feature</a>
+            </div>
+
+      </div>
+      
+     
+     
+      
+    
+
+
+
+
+<script src="https://kit.fontawesome.com/34e66c4488.js" crossorigin="anonymous"></script>
+ </body>
+ </html>
